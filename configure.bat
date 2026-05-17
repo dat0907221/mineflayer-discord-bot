@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 echo Enter your Minecraft bot username
-set /p username=Username: 
+set /p username=jiki
 cls
 
 echo Enter your Minecraft server host
