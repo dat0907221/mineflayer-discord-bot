@@ -6,15 +6,15 @@ set /p username=Username:
 cls
 
 echo Enter your Minecraft server host
-set /p host=Host: 
+set /p host=Host:limsmpmc.aternos.me
 cls
 
 echo Enter your Minecraft server port
-set /p port=Port: 
+set /p port=Port:41689
 cls
 
 echo Enter your Minecraft server version
-set /p version=Version: 
+set /p version=Version:1.20.4
 cls
 
 echo Enter auth method (microsoft/offline)
